@@ -1,0 +1,13 @@
+﻿Build started 12/13/2025 12:15:42 AM.
+     1>Project "C:\Users\LOQ\Documents\Visual Studio 2012\Projects\mylegacy7\mylegacy7\mylegacy7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\OpenGl2\OpenGl\include /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LOQ\Documents\Visual Studio 2012\Projects\mylegacy7\Debug\Solar System.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenGl2\OpenGl\lib freeglut.lib opengl32.lib glu32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LOQ\Documents\Visual Studio 2012\Projects\mylegacy7\Debug\Solar System.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LOQ\Documents\Visual Studio 2012\Projects\mylegacy7\Debug\Solar System.lib" /MACHINE:X86 Debug\main.obj
+         mylegacy7.vcxproj -> C:\Users\LOQ\Documents\Visual Studio 2012\Projects\mylegacy7\Debug\Solar System.exe
+     1>Done Building Project "C:\Users\LOQ\Documents\Visual Studio 2012\Projects\mylegacy7\mylegacy7\mylegacy7.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.91
